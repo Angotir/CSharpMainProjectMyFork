@@ -15,7 +15,8 @@ public class EnterPoint : MonoBehaviour
 
     /*/ comment 2
      * comment 3
-    /*/
+        /*/
+    //Hello there!
     
     void Start()
     {
